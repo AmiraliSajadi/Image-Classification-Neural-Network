@@ -4,6 +4,6 @@ L-layer NN model for ***binary classification*** of image datasets (trained with
   
 *Is there a cat in there?*
 
-<br/><br/>
+
 This jupyter notebook implements a neural network model and all it's functions using Numpy.  
 Model is trained on cat images. The pre-processing and labelling of the images is included.
