@@ -38,7 +38,7 @@ This project showcases a custom-implemented deep neural network for binary image
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone git@github.com:AmiraliSajadi/Image-Classification-Neural-Network.git
+git clone https://github.com/AmiraliSajadi/Image-Classification-Neural-Network.git
 ```
 2. Organize your dataset:
 ```
